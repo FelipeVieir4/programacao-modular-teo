@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;ex06-nivelamento/src&apos;&#x0D;&#x0A;- Original project: &apos;ex04-nivelamento&apos;&#x0D;&#x0A;- Destination element: &apos;ex06-nivelamento/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Main.java&#x0D;&#x0A;     Validator.java" description="Copy compilation units" destination="=ex06-nivelamento/src" element1="/src&lt;{Main.java" element2="/src&lt;{Validator.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1675804400529" units="2" version="1.0"/>
+</session>
