@@ -1,6 +1,6 @@
-#PROGRAMAÇÃO MODULAR
+# PROGRAMAÇÃO MODULAR
 
-##Até agora:
+## Até agora:
 - Qualidade de software
 - Modularidade e fundamentos de POO
 - TDD
@@ -9,7 +9,7 @@
 ---
 
 
-####Qualidade de software:
+#### Qualidade de software:
 - Processo de desenvolvimento de software:
   * Especificação = requisitos
   * Desenvolvimento = código + metodologia
@@ -17,11 +17,5 @@
   * Evolução
 
 - Fatores externo: são coisas que o usuário percebe.
-- Fatores interno: ajudam no desenvolvimento. Itens como manutenibilidade, modularidade....
-
-
----
-
-####Qualidade de software:
--
+- Fatores interno: ajudam no desenvolvimento. Itens como manutenibilidade, modularidade...
 
